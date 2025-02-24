@@ -12,8 +12,9 @@ Create a “Task Management” application with **React + TypeScript** (frontend
   3. The tables are taken care by the DB script 
 
 ## Setup .env file:
-  1. Create .env file in 
+  1. Create .env file in /server/ (backend)
   2. It needs the following:
+  
     - PORT= by default 5000, change if necessary
     - DB_URL=postgresql://postgres:password@localhost:5432/task_manager # Database URL
     - DB_USER=postgres # Database user
