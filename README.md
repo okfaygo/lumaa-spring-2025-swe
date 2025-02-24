@@ -1,13 +1,13 @@
 # Full-Stack Coding Challenge
   - Salary Expectations per month (Mandatory): **$2000** 
-  - Video Link: [text](https://drive.google.com/file/d/1DEUwA-1zcsBPl9oESfHqLaXVWN5zvZDn/view?usp=sharing)
+  - Video Link: [Fogo's Full-Stack-Demo](https://drive.google.com/file/d/1DEUwA-1zcsBPl9oESfHqLaXVWN5zvZDn/view?usp=sharing)
 
 ## Overview
 
 Create a “Task Management” application with **React + TypeScript** (frontend) (Frontend was mistakenly made with JavaScript), **Node.js** (or **Nest.js**) (backend), and **PostgreSQL** (database).
 
 ## Steps To Setup Database
-  1. Install PostgreSQL from [text](https://www.postgresql.org/download/.)
+  1. Install PostgreSQL from [https://www.postgresql.org/download/.](https://www.postgresql.org/download/.)
   2. Create database titled task_manager 
   3. The tables are taken care by the DB script 
 
