@@ -14,14 +14,14 @@ Create a “Task Management” application with **React + TypeScript** (frontend
 ## Setup .env file:
   1. Create .env file in 
   2. It needs the following:
-    a. PORT= by default 5000, change if necessary
-    b. DB_URL=postgresql://postgres:password@localhost:5432/task_manager # Database URL
-    c. DB_USER=postgres # Database user
-    d. DB_PASSWORD=password # Database password
-    e. DB_NAME=task_manager # Database name
-    f. DB_HOST=localhost # Database host
-    g. DB_PORT=5432 # Database port
-    h. JWT_SECRET = long string of text
+    - PORT= by default 5000, change if necessary
+    - DB_URL=postgresql://postgres:password@localhost:5432/task_manager # Database URL
+    - DB_USER=postgres # Database user
+    - DB_PASSWORD=password # Database password
+    - DB_NAME=task_manager # Database name
+    - DB_HOST=localhost # Database host
+    - DB_PORT=5432 # Database port
+    - JWT_SECRET = long string of text
 
 ## How to run the backend:
   1. cd to server folder
